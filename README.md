@@ -16,6 +16,8 @@ Super detailed environment configuration
 
 # WIKI:
 ## www.display-wiki.com
+# VIEWE Store
+## www.aliexpress.com/store/1103793083
 
  # The following is the display of various models of smart screen development boards:
   ### The image below is just a rendering, and each screen size is not the same.
@@ -37,5 +39,4 @@ Super detailed environment configuration
 ###          7.0inch:
 ![7.0Primary](https://github.com/VIEWESMART/image/blob/main/7.0inch_P.png)![7.0secondary](https://github.com/VIEWESMART/image/blob/main/7.0inch_S.png)
 
-### VIEWE Store
-### www.aliexpress.com/store/1103793083
+
